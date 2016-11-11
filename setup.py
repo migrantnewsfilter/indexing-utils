@@ -1,9 +1,7 @@
 import os
-import setuptools
+from setuptools import setup
 
-module_path = os.path.join(os.path.dirname(__file__), 'utils.py')
-
-setuptools.setup(
+setup(
     name="indexing-utils",
     version='0.0.1',
     url="https://github.com/migrantnewsfilter/indexing-utils",
