@@ -2,7 +2,7 @@ import os
 from setuptools import setup
 
 setup(
-    name="indexing-utils",
+    name="indexing_utils",
     version='0.0.1',
     url="https://github.com/migrantnewsfilter/indexing-utils",
 
