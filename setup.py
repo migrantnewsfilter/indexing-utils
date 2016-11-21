@@ -6,7 +6,7 @@ setup(
     version='0.0.1',
     url="https://github.com/migrantnewsfilter/indexing-utils",
 
-    py_modules=['indexing-utils'],
+    py_modules=['indexing_utils'],
     zip_safe=False,
 
     install_requires=[]
